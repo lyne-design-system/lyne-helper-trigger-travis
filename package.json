@@ -20,7 +20,7 @@
     "semantic-release-slack-bot": "^1.6.2"
   },
   "files": [
-    "dist/"
+    "index.js"
   ],
   "scripts": {
     "lint": "npm run lint:yml && npm run lint:js",
