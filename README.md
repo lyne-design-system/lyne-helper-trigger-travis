@@ -8,7 +8,7 @@ Trigger a build on TravisCI via Travis API v3.
 
 Install the Helper with the following command:
 ```bash
-npm install --save-dev lyne-helper-trigger-travis
+npm install --save lyne-helper-trigger-travis
 ```
 
 ## Usage
