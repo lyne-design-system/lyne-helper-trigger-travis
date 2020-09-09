@@ -16,7 +16,6 @@ jobs:
     - stage: build and deploy package
       script:
       - npm run lint
-      - npm run trigger
 
       after_success:
       - npm run semantic-release
