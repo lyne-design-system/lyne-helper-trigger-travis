@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/lyne-design-system/lyne-helper-trigger-travis/compare/v1.0.0...v1.0.1) (2020-09-09)
+
+
+### Bug Fixes
+
+* move index file to root ([8f71ef9](https://github.com/lyne-design-system/lyne-helper-trigger-travis/commit/8f71ef934e0e7fe7d8ff67cfa9278c14ae3b6008))
+
 # 1.0.0 (2020-09-09)
 
 
