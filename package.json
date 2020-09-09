@@ -1,0 +1,41 @@
+{
+  "name": "lyne-helper-trigger-travis",
+  "version": "1.0.0",
+  "description": "Helper to trigger a build on TravisCI via Travis API v3",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/cli": "^9.0.1",
+    "@commitlint/config-conventional": "~10.0.0",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/exec": "^5.0.0",
+    "@semantic-release/git": "^9.0.0",
+    "axios": "~0.20.0",
+    "dotenv": "~8.2.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-yaml": "^0.3.0",
+    "husky": "^4.2.5",
+    "semantic-release": "^17.0.8",
+    "semantic-release-slack-bot": "^1.6.2"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "trigger": "node index.js",
+    "lint": "npm run lint:yml && npm run lint:js",
+    "lint:js": "eslint ./ --ext .js",
+    "lint:yml": "eslint ./ --ext .yml,.yaml",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyne-design-system/lyne-helper-trigger-travis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyne-design-system/lyne-helper-trigger-travis/issues"
+  },
+  "homepage": "https://github.com/lyne-design-system/lyne-helper-trigger-travis/blob/master/README.md"
+}
