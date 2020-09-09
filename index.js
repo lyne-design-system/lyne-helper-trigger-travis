@@ -5,7 +5,7 @@ const configKeys = {
   message: 'message',
   travisToken: 'travisToken',
   travisUrl: 'travisUrl'
-}
+};
 
 const isValidConfig = (config) => {
   const keys = Object.keys(config);
@@ -20,7 +20,7 @@ const isValidConfig = (config) => {
   }
 
   return true;
-}
+};
 
 const triggerTravis = async (config) => {
 
@@ -45,7 +45,7 @@ const triggerTravis = async (config) => {
       branch,
       message
     }
-  }
+  };
 
   const requestConfig = {
     data: requestBody,
