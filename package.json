@@ -4,7 +4,8 @@
   "description": "Helper to trigger a build on TravisCI via Travis API v3",
   "main": "index.js",
   "dependencies": {
-    "axios": "~0.20.0"
+    "axios": "~0.20.0",
+    "snowpack": "~2.10.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^9.0.1",
