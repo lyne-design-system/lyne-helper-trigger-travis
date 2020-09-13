@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/lyne-design-system/lyne-helper-trigger-travis/compare/v1.0.1...v1.0.2) (2020-09-13)
+
+
+### Bug Fixes
+
+* add webpack build ([a051b1b](https://github.com/lyne-design-system/lyne-helper-trigger-travis/commit/a051b1bcc22ac8685bbb6d6e5cf59fc729991d1f))
+
 ## [1.0.1](https://github.com/lyne-design-system/lyne-helper-trigger-travis/compare/v1.0.0...v1.0.1) (2020-09-09)
 
 
