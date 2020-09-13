@@ -5,7 +5,7 @@ const {
 
 module.exports = {
   entry: {
-    index: './src/index.js'
+    index: './index.js'
   },
   mode: 'production',
   output: {
