@@ -65,7 +65,7 @@ Example for a project on travis.com with the user name `lyne-design-system` and 
 
 ### Conventional Commits
 
-Please follow the [Conventional Commits](https://www.conventionalcommits.com/en/v1.0.0/) specification to make sure we can automatically determine the next release version if necessary.
+Please follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification to make sure we can automatically determine the next release version if necessary.
 
 ### Deployment
 
