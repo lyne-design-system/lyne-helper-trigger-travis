@@ -15,7 +15,7 @@
     "dotenv": "~8.2.0",
     "eslint": "^7.0.0",
     "eslint-plugin-yaml": "^0.3.0",
-    "husky": "^4.2.5",
+    "husky": "^5.2.0",
     "lyne-helper-eslint-config": "~1.0.1",
     "semantic-release": "^17.0.8",
     "semantic-release-slack-bot": "^1.6.2",
