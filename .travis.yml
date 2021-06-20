@@ -20,8 +20,8 @@ jobs:
   include:
     - stage: build and deploy package
       script:
-      - npm run lint
-      - npm run build
+      - npm run lint || travis_terminate 1
+      - npm run build || travis_terminate 1
 
       after_success:
       - npm run semantic-release || travis_terminate 1
