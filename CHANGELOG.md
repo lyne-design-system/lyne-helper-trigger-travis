@@ -1,3 +1,11 @@
+## [1.0.4](https://github.com/lyne-design-system/lyne-helper-trigger-travis/compare/v1.0.3...v1.0.4) (2021-06-20)
+
+
+### Bug Fixes
+
+* manually update semantic-release ([871231d](https://github.com/lyne-design-system/lyne-helper-trigger-travis/commit/871231d3ac5cb98f42dae7c2cde05845ec059842))
+* update lock file after fresh install ([a11118f](https://github.com/lyne-design-system/lyne-helper-trigger-travis/commit/a11118f890476743c5db2bd77a54d6a5260f02f1))
+
 ## [1.0.3](https://github.com/lyne-design-system/lyne-helper-trigger-travis/compare/v1.0.2...v1.0.3) (2020-09-13)
 
 
