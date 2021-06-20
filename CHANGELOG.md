@@ -1,3 +1,11 @@
+## [1.0.5](https://github.com/lyne-design-system/lyne-helper-trigger-travis/compare/v1.0.4...v1.0.5) (2021-06-20)
+
+
+### Bug Fixes
+
+* disable gravitron again ([4d9d412](https://github.com/lyne-design-system/lyne-helper-trigger-travis/commit/4d9d412b9db45316ba02effd93fd3a5bc0106a5d))
+* enable graviton again ([02e30f0](https://github.com/lyne-design-system/lyne-helper-trigger-travis/commit/02e30f0fbc6ba3bda644c8c62459788f2cc3b834))
+
 ## [1.0.4](https://github.com/lyne-design-system/lyne-helper-trigger-travis/compare/v1.0.3...v1.0.4) (2021-06-20)
 
 
