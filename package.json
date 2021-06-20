@@ -17,7 +17,7 @@
     "eslint-plugin-yaml": "^0.4.2",
     "husky": "^4.2.5",
     "lyne-helper-eslint-config": "~1.0.1",
-    "semantic-release": "^17.0.8",
+    "semantic-release": "~17.4.4",
     "semantic-release-slack-bot": "^2.1.0",
     "webpack": "~4.44.1",
     "webpack-cli": "~4.6.0"
