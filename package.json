@@ -1,6 +1,6 @@
 {
   "name": "lyne-helper-trigger-travis",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Helper to trigger a build on TravisCI via Travis API v3",
   "main": "dist/index.js",
   "dependencies": {},

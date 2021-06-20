@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/lyne-design-system/lyne-helper-trigger-travis/compare/v1.0.5...v1.0.6) (2021-06-20)
+
+
+### Bug Fixes
+
+* fail build if a step fails ([86a4225](https://github.com/lyne-design-system/lyne-helper-trigger-travis/commit/86a422536f1a840498c92c006d60e1902e750d7b))
+
 ## [1.0.5](https://github.com/lyne-design-system/lyne-helper-trigger-travis/compare/v1.0.4...v1.0.5) (2021-06-20)
 
 
