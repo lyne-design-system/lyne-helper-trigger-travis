@@ -19,7 +19,7 @@
     "lyne-helper-eslint-config": "~1.0.1",
     "semantic-release": "~17.4.4",
     "semantic-release-slack-bot": "^2.1.0",
-    "webpack": "~5.59.1",
+    "webpack": "~5.61.0",
     "webpack-cli": "~4.9.0"
   },
   "files": [
