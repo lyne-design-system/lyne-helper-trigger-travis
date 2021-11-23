@@ -55,8 +55,6 @@ triggerTravis(config)
 `travisUrl`: the url to the travis project.
 
 #### travisUrl
-The Schema is as follows: https://api.travis-ci.com/repo/{slug|id}/requests.
-
 If you use travis.com, please use https://api.travis-ci.com/repo/{slug|id}/requests.
 
 Example for a project on travis.com with the user name `lyne-design-system` and the repo name `lyne-design-tokens`: https://api.travis-ci.com/repo/lyne-design-system%2Flyne-design-tokens/requests
