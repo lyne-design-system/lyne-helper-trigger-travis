@@ -68,3 +68,23 @@ Please follow the [Conventional Commits](https://www.conventionalcommits.org/en/
 ### Deployment
 
 The package is automatically versioned and published to npm after successfull build on travis.
+
+## Debugging
+
+If there is something wrong or weird with the Travis API, you can try to trigger a Travis Job directly via CLI with the following command:
+
+```bash
+body='{
+  "request": {
+    "branch":"master"
+  }
+}'
+
+curl -s -X POST \
+  -H "Content-Type: application/json" \
+  -H "Accept: application/json" \
+  -H "Travis-API-Version: 3" \
+  -H "Authorization: token TRAVIS-TOKEN-HERE" \
+  -d "$body" \
+  https://api.travis-ci.com/repo/lyne-design-system%2Flyne-documentation/requests
+```
